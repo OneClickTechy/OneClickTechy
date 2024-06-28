@@ -1,0 +1,26 @@
+.container{
+    max-width: 800px;
+    min-height: 400px;
+    display: flex;
+    border: 2px solid red;
+    gap: .5rem;
+    flex-wrap: wrap;
+    
+}
+.box{
+    background-color: black;
+    color:antiquewhite;
+    min-height: 100px;
+    font-size: 2rem;
+    padding:0.5rem;
+    display: flex;
+    flex: 1 1 100px;    
+}
+
+/*.box:nth-child(5){
+    flex-grow: 1;
+}
+.box:nth-child(6){
+    flex-grow: 1;
+}
+    */
