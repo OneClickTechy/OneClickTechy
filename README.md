@@ -1,6 +1,7 @@
 <!-- Header -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/your-image.png](https://avatars.githubusercontent.com/u/144700210?v=4&size=64)" alt="Your Name" width="200"/>
+  <img src="![image](https://github.com/user-attachments/assets/c8fb9136-1352-412e-89f6-262003c6af76)
+" alt="Your Name" width="200"/>
 </p>
 
 <h1 align="center">Hello, I'm Jeyapandi <img src="https://github.com/OneClickTechy/YourRepo/blob/main/wave.gif" width="30px"></h1>
