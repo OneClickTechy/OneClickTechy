@@ -43,6 +43,7 @@ A to-do list web app with task management features. [🔗 Live Demo](https://one
 
 ## 🎓 Certifications
 - **FreeCodeCamp:** - [📜 Responsive Web Design](https://freecodecamp.org/certification/jeyapandi_r/responsive-web-design)
+- - **FreeCodeCamp:** - [📜 Javascript Algorithms and Data Structures](https://www.freecodecamp.org/certification/jeyapandi_r/javascript-algorithms-and-data-structures-v8)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oneclicktechy)
