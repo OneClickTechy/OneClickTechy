@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Jeyapandi
+<p align="center">
+  <img src="./gitHub_Profile.png" alt="Profile Picture" width="200px" >
+</p>
 
-<img src="./profile.jpg" alt="Profile Picture" width="200px">
 
 ## 💻 About Me
 I'm a passionate web developer with a keen interest in creating user-friendly and efficient applications. With experience in various technologies, I continuously strive to expand my knowledge and skill set.
