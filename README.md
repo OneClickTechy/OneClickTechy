@@ -41,7 +41,7 @@ I'm a passionate web developer with a keen interest in creating user-friendly an
 ### 📝 [MERN Blog](https://github.com/OneClickTechy/mern-blog)
 A full-stack MERN (MongoDB, Express, React, Node.js) blog app where users can create, edit, and delete blog posts. Includes authentication and MongoDB integration. [🔗 Live Demo](https://mr-jps-blog.onrender.com/)
 
-### 🌤️ [Weather App](https://github.com/OneClickTechy/weatherApp)
+### 🌤️ [Weather App](https://github.com/OneClickTechy/weather-app)
 A weather app built using JavaScript and an external API to fetch real-time weather data based on the user's location. [🔗 Live Demo](https://liveweatherlocal.netlify.app/)
 
 ### 📊 [Calculator](https://github.com/OneClickTechy/Calculator)
