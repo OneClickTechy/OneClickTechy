@@ -23,10 +23,11 @@ I'm a passionate web developer with a keen interest in creating user-friendly an
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
   [![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white)](https://jquery.com/)
   [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)
-
-
-
-
+  
+- **Backend Development**
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 - **Tools & Technologies:**  
   ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
@@ -36,6 +37,12 @@ I'm a passionate web developer with a keen interest in creating user-friendly an
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 🌟 Projects
+
+### 📝 [MERN Blog](https://github.com/OneClickTechy/mern-blog)
+A full-stack MERN (MongoDB, Express, React, Node.js) blog app where users can create, edit, and delete blog posts. Includes authentication and MongoDB integration. [🔗 Live Demo](https://mr-jps-blog.onrender.com/)
+
+### 🌤️ [Weather App](https://github.com/OneClickTechy/weatherApp)
+A weather app built using JavaScript and an external API to fetch real-time weather data based on the user's location. [🔗 Live Demo](https://liveweatherlocal.netlify.app/)
 
 ### 📊 [Calculator](https://github.com/OneClickTechy/Calculator)
 A fully functional calculator built using JavaScript, following BODMAS rules, supporting parentheses, percentages, and decimals. [🔗 Live Demo](https://oneclicktechy.github.io/Calculator/)
